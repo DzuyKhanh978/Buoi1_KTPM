@@ -2,4 +2,8 @@
 chào buổi chiều
 kakakaka
 aaaaaa
+<<<<<<< HEAD
 bbbbbbbbb
+=======
+
+>>>>>>> test
