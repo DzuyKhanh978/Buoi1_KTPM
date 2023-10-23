@@ -1,1 +1,2 @@
-hello Khanh Duy
+﻿hello Khanh Duy
+chào buổi chiều
